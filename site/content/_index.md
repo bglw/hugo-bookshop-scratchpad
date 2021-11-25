@@ -19,6 +19,7 @@ note_html: >-
 input_a:
 input-b:
 inputC:
+inputD:
 _select_data:
   input_a:
     - "a_a"
@@ -32,4 +33,12 @@ _select_data:
     - "aA"
     - "bB"
     - "cC"
+_inputs:
+  inputD:
+    type: select
+    options:
+      values:
+        - dee
+        - DEE
+        - dEe
 ---
