@@ -18,11 +18,15 @@ note_html: >-
   <p>You can also use the bookshop tag directly.</p>
 input_a:
 input-b:
+inputC:
 _select_data:
   input_a:
     - "a"
     - "b"
   input-b:
+    - "a"
+    - "b"
+  inputC:
     - "a"
     - "b"
 ---
