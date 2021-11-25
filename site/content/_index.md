@@ -19,26 +19,17 @@ note_html: >-
 input_a:
 input-b:
 inputC:
-_inputs:
+_select_data:
   input_a:
-    type: select
-    options:
-      values:
-        - a
-        - b
-        - c
+    - "a_a"
+    - "b_b"
+    - "c_c"
   input-b:
-    type: select
-    options:
-      values:
-        - a
-        - b
-        - c
+    - "a-a"
+    - "b-b"
+    - "c-c"
   inputC:
-    type: select
-    options:
-      values:
-        - a
-        - b
-        - c
+    - "aA"
+    - "bB"
+    - "cC"
 ---
