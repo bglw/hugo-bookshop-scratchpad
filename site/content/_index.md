@@ -27,7 +27,7 @@ _inputs:
         - a
         - b
         - c
-  input-a:
+  input-b:
     type: select
     options:
       values:
