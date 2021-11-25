@@ -22,7 +22,7 @@ _select_data:
   input_a:
     - "a"
     - "b"
-  input-b:
+  input_b:
     - "a"
     - "b"
 ---
