@@ -16,4 +16,13 @@ content_blocks:
     type: standard
 note_html: >-
   <p>You can also use the bookshop tag directly.</p>
+input_a:
+input-b:
+_select_data:
+  input_a:
+    - "a"
+    - "b"
+  input-b:
+    - "a"
+    - "b"
 ---
